@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
-| Kelas | TI-4B |
+| NIM | **21104410035** |
+| Nama Lengkap | **Nugroho Gusti Bintang Fajar** |
+| Kelas | TI-4A |
